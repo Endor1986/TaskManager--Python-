@@ -51,15 +51,14 @@ Installation
 
 Schritt 1: Projekt herunterladen
 Laden Sie die Projektdateien herunter oder klonen Sie das Repository:
+git clone https://github.com/endor1986/
+TaskManager--Python--
 
-git clone https://github.com/endor1986/TaskManager.git
-cd TaskManager
 Schritt 2: Abhängigkeiten installieren
 Öffnen Sie ein Admin-Terminal (CMD) und installieren Sie die erforderlichen Bibliotheken:
-
 pip install tkcalendar
-Schritt 3: Anwendung starten
 
+Schritt 3: Anwendung starten
 Starten Sie die Anwendung aus dem Projektverzeichnis:
 python TaskManager.py
 
