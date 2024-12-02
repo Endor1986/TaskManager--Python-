@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\ui\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\task_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\services\\task_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\interfaces.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\services\\interfaces.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\task.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\models\\task.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\TaskManager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\TaskManager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\date_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\utils\\date_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\ui\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\services\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88083A52-2F7A-45EF-B7C8-1A604D0EE87F}|TaskManager\\TaskManager.pyproj|solutionrelative:TaskManager\\models\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\.gitignore",
+              "RelativeDocumentMoniker": "TaskManager\\.gitignore",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\.gitignore",
+              "RelativeToolTip": "TaskManager\\.gitignore",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-02T18:07:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "date_utils.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\date_utils.py",
+              "RelativeDocumentMoniker": "TaskManager\\utils\\date_utils.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\date_utils.py",
+              "RelativeToolTip": "TaskManager\\utils\\date_utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:50:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "__init__.py (utils)",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\__init__.py",
+              "RelativeDocumentMoniker": "TaskManager\\utils\\__init__.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\utils\\__init__.py",
+              "RelativeToolTip": "TaskManager\\utils\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:49:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\app.py",
+              "RelativeDocumentMoniker": "TaskManager\\ui\\app.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\app.py",
+              "RelativeToolTip": "TaskManager\\ui\\app.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:49:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "__init__.py (ui)",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\__init__.py",
+              "RelativeDocumentMoniker": "TaskManager\\ui\\__init__.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\ui\\__init__.py",
+              "RelativeToolTip": "TaskManager\\ui\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:49:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interfaces.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\interfaces.py",
+              "RelativeDocumentMoniker": "TaskManager\\services\\interfaces.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\interfaces.py",
+              "RelativeToolTip": "TaskManager\\services\\interfaces.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:48:40.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task_manager.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\task_manager.py",
+              "RelativeDocumentMoniker": "TaskManager\\services\\task_manager.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\task_manager.py",
+              "RelativeToolTip": "TaskManager\\services\\task_manager.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:48:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "__init__.py (services)",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\__init__.py",
+              "RelativeDocumentMoniker": "TaskManager\\services\\__init__.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\services\\__init__.py",
+              "RelativeToolTip": "TaskManager\\services\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:48:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\task.py",
+              "RelativeDocumentMoniker": "TaskManager\\models\\task.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\task.py",
+              "RelativeToolTip": "TaskManager\\models\\task.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:47:15.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "__init__.py (models)",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\__init__.py",
+              "RelativeDocumentMoniker": "TaskManager\\models\\__init__.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\models\\__init__.py",
+              "RelativeToolTip": "TaskManager\\models\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:47:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManager.py",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\TaskManager.py",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.py",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\PY TaskManager\\TaskManager\\TaskManager\\TaskManager.py",
+              "RelativeToolTip": "TaskManager\\TaskManager.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T14:29:46.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
